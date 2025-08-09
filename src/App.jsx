@@ -41,7 +41,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-black text-white flex flex-col items-center p-5">
       <h1 className="text-3xl md:text-5xl font-bold mb-6 text-center animate-fadeIn">
-        GitHub Profile Finder
+        GitHub Profile
       </h1>
       <div className="flex flex-col md:flex-row items-center gap-4 w-full max-w-2xl">
         <input
