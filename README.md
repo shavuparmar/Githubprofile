@@ -1,8 +1,8 @@
 # - GitHub Profile Viewer
 
-Satsagram is a modern web application built with **React**, **Vite**, and **TailwindCSS** that allows users to search for any GitHub username and instantly view their public profile information and repositories. Leveraging the power of the [GitHub REST API](https://api.github.com), this project demonstrates how to fetch and display real-time data from GitHub in a beautiful, responsive UI. The app is designed for speed, accessibility, and ease of use, making it a perfect example of how to integrate third-party APIs into a React frontend.
+GithubProfile is a modern web application built with **React**, **Vite**, and **TailwindCSS** that allows users to search for any GitHub username and instantly view their public profile information and repositories. Leveraging the power of the [GitHub REST API](https://api.github.com), this project demonstrates how to fetch and display real-time data from GitHub in a beautiful, responsive UI. The app is designed for speed, accessibility, and ease of use, making it a perfect example of how to integrate third-party APIs into a React frontend.
 
-With Satsagram, you can enter any GitHub username and see their avatar, bio, follower/following counts, and a list of their public repositories, including stars, forks, and primary language. The interface is enhanced with smooth animations and styled with TailwindCSS for a clean, modern look. This project is ideal for learning how to work with APIs in React, manage asynchronous data, and build attractive, interactive UIs.
+With GithubProfile, you can enter any GitHub username and see their avatar, bio, follower/following counts, and a list of their public repositories, including stars, forks, and primary language. The interface is enhanced with smooth animations and styled with TailwindCSS for a clean, modern look. This project is ideal for learning how to work with APIs in React, manage asynchronous data, and build attractive, interactive UIs.
 
 ---
 
@@ -19,7 +19,7 @@ With Satsagram, you can enter any GitHub username and see their avatar, bio, fol
 
 ## Demo
 
-[Live Demo](https://shavuparmar.github.io)
+[Live Demo](https://profilegithub.vercel.app)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these steps to clone, install, and run the project locally.
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/shavuparmar/satsagram.git
+git clone https://github.com/shavuparmar/githubprofile.git
 cd satsagram
 ```
 
